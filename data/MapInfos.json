@@ -1,7 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":459,"scrollY":323.5},
-{"id":2,"expanded":false,"name":"EventLand","order":2,"parentId":0,"scrollX":832,"scrollY":640.5},
-{"id":3,"expanded":false,"name":"TestMap","order":3,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":4,"expanded":false,"name":"MainDungeon","order":4,"parentId":0,"scrollX":832,"scrollY":640}
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":659,"scrollY":391},
+{"id":2,"expanded":false,"name":"EventLand","order":2,"parentId":0,"scrollX":861,"scrollY":537},
+{"id":3,"expanded":false,"name":"TestMap","order":3,"parentId":0,"scrollX":624,"scrollY":385.5}
 ]
