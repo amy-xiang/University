@@ -3,8 +3,9 @@
 * @author Soundless Studios
 *
 * Plugin Commands:
-*  isPlayerStillOnEvent (int)      # Check if the player is currently on the provided event id.
+*  isPlayerStillOnEvent      # Check if the player is currently on the provided event id.
 *   Returns: true or false in the D self switch.
+*
 *
 * @help
 * You shouldn't need help.
