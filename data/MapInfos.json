@@ -1,6 +1,6 @@
 [
 null,
 {"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":598.5,"scrollY":336.5},
-{"id":2,"expanded":false,"name":"EventLand","order":2,"parentId":0,"scrollX":811,"scrollY":595},
+{"id":2,"expanded":false,"name":"EventLand","order":2,"parentId":0,"scrollX":811,"scrollY":521},
 {"id":3,"expanded":false,"name":"TestMap","order":3,"parentId":0,"scrollX":598.5,"scrollY":336.5}
 ]
