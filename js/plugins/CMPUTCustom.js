@@ -6,6 +6,9 @@
 *  isPlayerStillOnEvent      # Check if the player is currently on the provided event id.
 *   Returns: true or false in the D self switch.
 *
+*  isEventOverlapping (int)  # Check if an event is overlapping the caller.
+*   Returns: true or false in the D self switch.
+*
 *
 * @help
 * You shouldn't need help.
@@ -23,6 +26,15 @@
         $gameSelfSwitches.setValue([$gameMap._mapId, providedID, 'D'], true);
       }else{
         $gameSelfSwitches.setValue([$gameMap._mapId, providedID, 'D'], false);
+      }
+    }else if(command == "isEventOverlapping"){
+      var selfID = this.eventId();
+      var otherID = args[0];
+      console.log(selfID + " " + otherID);
+      if($gameMap.event(selfID).x == $gameMap.event(otherID).x && $gameMap.event(selfID).y == $gameMap.event(otherID).y){
+        $gameSelfSwitches.setValue([$gameMap._mapId, selfID, 'D'], true);
+      }else{
+        $gameSelfSwitches.setValue([$gameMap._mapId, selfID, 'D'], false);
       }
     }
   };
