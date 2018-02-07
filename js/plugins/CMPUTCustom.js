@@ -30,7 +30,6 @@
     }else if(command == "isEventOverlapping"){
       var selfID = this.eventId();
       var otherID = args[0];
-      console.log(selfID + " " + otherID);
       if($gameMap.event(selfID).x == $gameMap.event(otherID).x && $gameMap.event(selfID).y == $gameMap.event(otherID).y){
         $gameSelfSwitches.setValue([$gameMap._mapId, selfID, 'D'], true);
       }else{
