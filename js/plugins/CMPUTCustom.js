@@ -8,6 +8,8 @@
 *
 *  isEventOverlapping (int)  # Check if an event is overlapping the caller.
 *   Returns: true or false in the D self switch.
+*  changeSwitchValue (int) (A/B/C/D) (boolean)  # Check if an event is overlapping the caller.
+*   Returns: true or false in the D self switch.
 *
 *
 * @help
@@ -34,6 +36,17 @@
         $gameSelfSwitches.setValue([$gameMap._mapId, selfID, 'D'], true);
       }else{
         $gameSelfSwitches.setValue([$gameMap._mapId, selfID, 'D'], false);
+      }
+    }else if(command == "changeSwitchValue"){
+      var providedEvent = args[0];
+      if(providedEvent != null && providedEvent >= 0){
+        if(args[2] == 'true'){
+          $gameSelfSwitches.setValue([$gameMap._mapId, providedEvent, args[1]], true);
+        }else{
+          $gameSelfSwitches.setValue([$gameMap._mapId, providedEvent, args[1]], false);
+        }
+      }else{
+        console.log("Unknown Event Provided!")
       }
     }
   };
