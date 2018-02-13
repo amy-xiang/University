@@ -6,5 +6,5 @@ null,
 {"id":4,"expanded":true,"name":"MAP004","order":4,"parentId":0,"scrollX":819,"scrollY":461},
 {"id":5,"expanded":true,"name":"SpikesAndFloor","order":5,"parentId":0,"scrollX":1080,"scrollY":624},
 {"id":6,"expanded":true,"name":"Main","order":6,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":7,"expanded":false,"name":"DarkCave","order":7,"parentId":0,"scrollX":811,"scrollY":499}
+{"id":7,"expanded":false,"name":"DarkCave","order":7,"parentId":0,"scrollX":811,"scrollY":461}
 ]
