@@ -8,10 +8,10 @@ null,
 {"id":6,"expanded":true,"name":"Level1Hub","order":5,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":7,"expanded":true,"name":"DarkCave","order":8,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":8,"expanded":false,"name":"SpikesAndFloorKey","order":6,"parentId":6,"scrollX":1092,"scrollY":614.6666666666666},
-{"id":9,"expanded":true,"name":"SpikesAndFloor","order":7,"parentId":6,"scrollX":1081.3333333333333,"scrollY":734.6666666666666},
+{"id":9,"expanded":true,"name":"SpikesAndFloor","order":7,"parentId":6,"scrollX":1081.3333333333333,"scrollY":614.6666666666666},
 {"id":10,"expanded":true,"name":"000_IntroLevels","order":9,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":11,"expanded":false,"name":"001-Courtyard","order":10,"parentId":10,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":12,"expanded":false,"name":"011-Hallway","order":11,"parentId":10,"scrollX":1092,"scrollY":614.6666666666666},
-{"id":13,"expanded":false,"name":"012-Classroom","order":12,"parentId":10,"scrollX":1001.4545454545455,"scrollY":705.8181818181819},
+{"id":13,"expanded":false,"name":"012-Classroom","order":12,"parentId":10,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":14,"expanded":false,"name":"IntroLight","order":14,"parentId":5,"scrollX":1092,"scrollY":614.6666666666666}
 ]
