@@ -13,7 +13,7 @@ null,
 {"id":11,"expanded":false,"name":"001-Courtyard","order":10,"parentId":10,"scrollX":1296,"scrollY":744},
 {"id":12,"expanded":false,"name":"011-Hallway","order":11,"parentId":10,"scrollX":1296,"scrollY":744},
 {"id":13,"expanded":false,"name":"012-Classroom","order":12,"parentId":10,"scrollX":1296,"scrollY":744},
-{"id":14,"expanded":false,"name":"IntroLight","order":14,"parentId":5,"scrollX":1296,"scrollY":744},
-{"id":15,"expanded":false,"name":"LightPart2","order":15,"parentId":5,"scrollX":1296,"scrollY":744},
-{"id":16,"expanded":false,"name":"Maze","order":16,"parentId":5,"scrollX":1603.1999999999998,"scrollY":724.8}
+{"id":14,"expanded":false,"name":"IntroLight","order":14,"parentId":5,"scrollX":811,"scrollY":739},
+{"id":15,"expanded":false,"name":"LightPart2","order":15,"parentId":5,"scrollX":811,"scrollY":659},
+{"id":16,"expanded":false,"name":"Maze","order":16,"parentId":5,"scrollX":2433,"scrollY":1497}
 ]
