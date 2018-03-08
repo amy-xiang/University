@@ -1429,7 +1429,7 @@ var LOGW = new PLATFORM.DevLog("Alpha ABS");
     return filePath;
     }
 
-    
+
 
 
 //DataManager
@@ -1923,7 +1923,7 @@ AlphaABS.UTILS = {};
 
 (function($) {
 
-  
+
 
   var SDK = PLATFORM.SDK;
 
@@ -2311,7 +2311,7 @@ Object.defineProperty(AlphaABS, 'UTILS', {writable: false});
 
 (function() {
 
-  
+
 
   //ABSObject_PopUp
   //------------------------------------------------------------------------------
@@ -2477,7 +2477,7 @@ Object.defineProperty(AlphaABS, 'UTILS', {writable: false});
 
 (function() {
 
-  
+
 
   //ABSObject_PopUpMachine
   //------------------------------------------------------------------------------
@@ -2855,7 +2855,7 @@ AlphaABS.SYSTEM.EXTENSIONS.ABSPE = {};
 
 (function() {
 
-  
+
 
   var LOG = new PLATFORM.DevLog("BattleManagerABS");
   LOG.applyPresetLib();
@@ -3197,7 +3197,7 @@ AlphaABS.SYSTEM.EXTENSIONS.ABSPE = {};
 function Game_AIBot()        { this.initialize.apply(this, arguments);}
 (function(){
 
-  
+
 
   var LOG = new PLATFORM.DevLog("AIBot");
   LOG.applyPresetLib();
@@ -4162,7 +4162,7 @@ function Game_AIBot()        { this.initialize.apply(this, arguments);}
 
 (function() {
 
-  
+
 
   var LOG = new PLATFORM.DevLog("BattleProcessABS");
   LOG.applyPresetLib();
@@ -4483,7 +4483,7 @@ function Game_AIBot()        { this.initialize.apply(this, arguments);}
 
 (function() {
 
-  
+
 
   var ABSObject_PopUp = AlphaABS.ABSObject_PopUp;
   var ABSObject_PopUpMachine = AlphaABS.ABSObject_PopUpMachine;
@@ -8416,6 +8416,9 @@ AlphaABS.register(Game_SVector);
             		BattleManagerABS.UI().show();
             	}
             	break;
+            case 'toggleRun':
+              AlphaABS.SYSTEM.PARAMS.ALLOW_DASH = !AlphaABS.SYSTEM.PARAMS.ALLOW_DASH;
+              break;
             case 'hideUI':
             	if(BattleManagerABS.UI()) {
             		BattleManagerABS.UI().setShowUI(false);
