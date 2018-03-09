@@ -14,8 +14,8 @@ null,
 {"id":12,"expanded":false,"name":"011-Hallway","order":11,"parentId":10,"scrollX":1101.6,"scrollY":776.4},
 {"id":13,"expanded":false,"name":"012-Classroom","order":12,"parentId":10,"scrollX":1271.142857142857,"scrollY":759.4285714285713},
 {"id":14,"expanded":false,"name":"IntroLight","order":14,"parentId":5,"scrollX":534,"scrollY":513},
-{"id":15,"expanded":false,"name":"LightPart2","order":15,"parentId":5,"scrollX":534,"scrollY":895},
-{"id":16,"expanded":false,"name":"Maze","order":16,"parentId":5,"scrollX":1540,"scrollY":1710},
+{"id":15,"expanded":false,"name":"LightPart2","order":15,"parentId":5,"scrollX":1101.6,"scrollY":776.4},
+{"id":16,"expanded":false,"name":"Maze","order":16,"parentId":5,"scrollX":1540.8,"scrollY":1710},
 {"id":17,"expanded":false,"name":"LightKeyRoom","order":17,"parentId":5,"scrollX":534,"scrollY":305},
-{"id":18,"expanded":false,"name":"TortureRoom","order":18,"parentId":5,"scrollX":591.2727272727273,"scrollY":332.72727272727275}
+{"id":18,"expanded":false,"name":"TortureRoom","order":18,"parentId":5,"scrollX":1101.6,"scrollY":776.4}
 ]
