@@ -8418,6 +8418,7 @@ AlphaABS.register(Game_SVector);
             	break;
             case 'toggleRun':
               AlphaABS.SYSTEM.PARAMS.ALLOW_DASH = !AlphaABS.SYSTEM.PARAMS.ALLOW_DASH;
+              Game_Player.prototype.updateDashing();
               break;
             case 'hideUI':
             	if(BattleManagerABS.UI()) {
