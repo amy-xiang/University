@@ -6810,6 +6810,7 @@ AlphaABS.register(Game_SVector);
 				return;
 			}
 		}
+    this._dashing = true;
 		_Game_Player_updateDashing.call(this);
 	}
 
