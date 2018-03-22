@@ -12,7 +12,7 @@ null,
 {"id":10,"expanded":true,"name":"000_IntroLevels","order":7,"parentId":0,"scrollX":988.6666666666666,"scrollY":590.6666666666666},
 {"id":11,"expanded":false,"name":"001-Courtyard","order":11,"parentId":10,"scrollX":1092,"scrollY":621.3333333333334},
 {"id":12,"expanded":true,"name":"011-Hallway","order":8,"parentId":10,"scrollX":1092,"scrollY":621.3333333333334},
-{"id":13,"expanded":false,"name":"012-Classroom","order":9,"parentId":10,"scrollX":1092,"scrollY":621.3333333333334},
+{"id":13,"expanded":true,"name":"012-Classroom","order":9,"parentId":10,"scrollX":1092,"scrollY":621.3333333333334},
 {"id":14,"expanded":false,"name":"IntroLight","order":26,"parentId":25,"scrollX":1092,"scrollY":621.3333333333334},
 {"id":15,"expanded":false,"name":"LightPart2","order":23,"parentId":5,"scrollX":1084,"scrollY":620},
 {"id":16,"expanded":true,"name":"Maze","order":21,"parentId":5,"scrollX":1081.3333333333333,"scrollY":2132},
@@ -29,5 +29,5 @@ null,
 {"id":27,"expanded":true,"name":"BossRoom3","order":29,"parentId":24,"scrollX":1081.3333333333333,"scrollY":610.6666666666666},
 {"id":28,"expanded":false,"name":"BossConnecterRoom","order":30,"parentId":24,"scrollX":1092,"scrollY":621.3333333333334},
 {"id":29,"expanded":false,"name":"SaveTest","order":5,"parentId":3,"scrollX":988.6666666666666,"scrollY":590.6666666666666},
-{"id":30,"expanded":false,"name":"012-ClassroomEmpty","order":10,"parentId":13,"scrollX":832,"scrollY":640}
+{"id":30,"expanded":false,"name":"012-ClassroomEmpty","order":10,"parentId":13,"scrollX":1092,"scrollY":621.3333333333334}
 ]
