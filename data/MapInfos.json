@@ -31,6 +31,6 @@ null,
 {"id":29,"expanded":false,"name":"SaveTest","order":5,"parentId":3,"scrollX":1139,"scrollY":641},
 {"id":30,"expanded":false,"name":"012-ClassroomEmpty","order":12,"parentId":13,"scrollX":644,"scrollY":482.5},
 {"id":31,"expanded":false,"name":"Connecter to Boss Room 1","order":32,"parentId":24,"scrollX":644,"scrollY":477.5},
-{"id":32,"expanded":false,"name":"ReleaseSpawnMap","order":33,"parentId":0,"scrollX":625.5,"scrollY":391},
+{"id":32,"expanded":false,"name":"ReleaseSpawnMap","order":33,"parentId":0,"scrollX":652,"scrollY":354.5},
 {"id":33,"expanded":false,"name":"DarkCaveBattleTutorial","order":7,"parentId":7,"scrollX":1139,"scrollY":641}
 ]
