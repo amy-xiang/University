@@ -10,7 +10,7 @@ null,
 {"id":8,"expanded":false,"name":"SpikesAndFloorKey","order":13,"parentId":6,"scrollX":1518.6666666666667,"scrollY":854.6666666666666},
 {"id":9,"expanded":true,"name":"SpikesAndFloor","order":14,"parentId":6,"scrollX":1518.6666666666667,"scrollY":854.6666666666666},
 {"id":10,"expanded":true,"name":"000_IntroLevels","order":7,"parentId":0,"scrollX":1518.6666666666667,"scrollY":854.6666666666666},
-{"id":11,"expanded":false,"name":"001-Courtyard","order":8,"parentId":10,"scrollX":1518.6666666666667,"scrollY":854.6666666666666},
+{"id":11,"expanded":false,"name":"001-Courtyard","order":8,"parentId":10,"scrollX":832,"scrollY":640},
 {"id":12,"expanded":true,"name":"011-Hallway","order":9,"parentId":10,"scrollX":1518.6666666666667,"scrollY":854.6666666666666},
 {"id":13,"expanded":true,"name":"012-Classroom","order":10,"parentId":10,"scrollX":1518.6666666666667,"scrollY":854.6666666666666},
 {"id":14,"expanded":false,"name":"IntroLight","order":26,"parentId":5,"scrollX":1518.6666666666667,"scrollY":854.6666666666666},
@@ -30,5 +30,6 @@ null,
 {"id":28,"expanded":true,"name":"BossConnecterRoom","order":30,"parentId":24,"scrollX":1518.6666666666667,"scrollY":854.6666666666666},
 {"id":29,"expanded":false,"name":"SaveTest","order":5,"parentId":3,"scrollX":1518.6666666666667,"scrollY":854.6666666666666},
 {"id":30,"expanded":false,"name":"012-ClassroomEmpty","order":11,"parentId":13,"scrollX":832,"scrollY":640},
-{"id":31,"expanded":false,"name":"Connecter to Boss Room 1","order":31,"parentId":24,"scrollX":1518.6666666666667,"scrollY":854.6666666666666}
+{"id":31,"expanded":false,"name":"Connecter to Boss Room 1","order":31,"parentId":24,"scrollX":1518.6666666666667,"scrollY":854.6666666666666},
+{"id":32,"expanded":false,"name":"ReleaseSpawnMap","order":32,"parentId":0,"scrollX":1518.6666666666667,"scrollY":854.6666666666666}
 ]
