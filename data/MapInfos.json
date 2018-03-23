@@ -29,7 +29,7 @@ null,
 {"id":27,"expanded":true,"name":"BossRoom3","order":29,"parentId":24,"scrollX":1508,"scrollY":854.6666666666666},
 {"id":28,"expanded":true,"name":"BossConnecterRoom","order":30,"parentId":24,"scrollX":1518.6666666666667,"scrollY":854.6666666666666},
 {"id":29,"expanded":false,"name":"SaveTest","order":5,"parentId":3,"scrollX":1518.6666666666667,"scrollY":854.6666666666666},
-{"id":30,"expanded":false,"name":"012-ClassroomEmpty","order":11,"parentId":13,"scrollX":832,"scrollY":640},
+{"id":30,"expanded":false,"name":"012-ClassroomEmpty","order":11,"parentId":13,"scrollX":1518.6666666666667,"scrollY":854.6666666666666},
 {"id":31,"expanded":false,"name":"Connecter to Boss Room 1","order":31,"parentId":24,"scrollX":1518.6666666666667,"scrollY":854.6666666666666},
 {"id":32,"expanded":false,"name":"ReleaseSpawnMap","order":32,"parentId":0,"scrollX":1518.6666666666667,"scrollY":854.6666666666666}
 ]
