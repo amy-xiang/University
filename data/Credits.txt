@@ -17,7 +17,7 @@ Kevin Nguyen
 
 \c[2]Plugins
 GALV RollCredits by Galv
-AlphaABS by Pheonix KageDesu
+AlphaABS by Pheonix KageDesu and modified by Soundless Studios
 CMPUTCustom by Soundless Studios
 SRD CollisionChecker by SumRndmDde
 TerraxLighting by Terrax
