@@ -1,0 +1,31 @@
+<block:-1,-2,10,10,offbot,center,GameTitle>
+\c[3]Labyrinthe by Soundless Studios
+
+\c[2]Design
+Yang Yi Xiang
+
+\c[2]Programming
+Ahzam Ahmad
+Chady Haidar
+Thomas Roskewich
+
+\c[2]Sound
+Marshal Cheng
+
+\c[2]Writing
+Kevin Nguyen
+
+\c[2]Plugins
+GALV RollCredits by Galv
+AlphaABS by Pheonix KageDesu
+CMPUTCustom by Soundless Studios
+SRD CollisionChecker by SumRndmDde
+TerraxLighting by Terrax
+YEP Message Core by Yanfly Engine Plugins
+
+</block>
+
+<block:999,0,10,10,300,center,GameTitle>
+\c[11]THE END
+\c[9]Thanks for playing!
+</block>
