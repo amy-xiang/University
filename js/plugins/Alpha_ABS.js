@@ -1600,24 +1600,24 @@ var LOGW = new PLATFORM.DevLog("Alpha ABS");
     Input.toDefaultABS = function() {
         AlphaABS.Key.symbol = {
             cpW:"w",
-            cpA:"a",
+            cpA:"1",
             cpD:"d",
             cpS:"s",
-            sp1:"1",
-            sp2:"2",
-            sp3:"3",
-            sp4:"4",
-            sp5:"5",
-            sp6:"6",
-            sp7:"7",
-            sp8:"8",
+            sp1:"2",
+            sp2:"3",
+            sp3:"4",
+            sp4:"5",
+            sp5:"6",
+            sp6:"7",
+            sp7:"8",
+            sp8:"9",
             tS:"tab",
             pC:"q",
             wC:"e",
             scW:"w",
             scS:"s",
             scD:"d",
-            scA:"a"
+            scA:"1"
         };
     }
 
