@@ -1600,7 +1600,7 @@ var LOGW = new PLATFORM.DevLog("Alpha ABS");
     Input.toDefaultABS = function() {
         AlphaABS.Key.symbol = {
             cpW:"w",
-            cpA:"1",
+            cpA:"`",
             cpD:"d",
             cpS:"s",
             sp1:"2",
@@ -1617,7 +1617,7 @@ var LOGW = new PLATFORM.DevLog("Alpha ABS");
             scW:"w",
             scS:"s",
             scD:"d",
-            scA:"1"
+            scA:"`"
         };
     }
 
