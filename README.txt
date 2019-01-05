@@ -14,4 +14,4 @@ Z to interact
 X/Escape for the menu
 Save slot 5 is reserved for autosaving. You can save here, but it will be overwritten. 
 
-[Labyrinthe Game Trailer](https://www.youtube.com/watch?v=1doImJHKeXk) 
+Labyrinthe Game Trailer: https://www.youtube.com/watch?v=1doImJHKeXk 
